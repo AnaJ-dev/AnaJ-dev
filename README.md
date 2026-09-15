@@ -1,5 +1,5 @@
 ## Hi there 👋
 
-I’m acquiring front-end skills, learning to code, and building projects💻
+I build with JavaScript, HTML, and CSS, using AI tools to move faster and focusing on understanding what the code does, not just typing it from scratch.
 
-I currently studying JavaScript, HTML, CSS
+Currently exploring automation - as the direction I want to grow into.
